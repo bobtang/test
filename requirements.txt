@@ -1,0 +1,6 @@
+fastapi
+openai
+datetime
+uvicorn
+python-multipart
+
