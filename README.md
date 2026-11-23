@@ -8,7 +8,7 @@
 像使用官方 API 接口一样：
 
 ```curl
-curl --location --request POST 'https://<Your-Domain.com>/v1/completions' \
+curl --location --request POST 'https://<Your-Domain.com>/v1/chat/completions' \
 -H 'Authorization: Bearer <Your-OpenAI-API-KEY>' \
 -H 'Content-Type: application/json' \
 -d '{
